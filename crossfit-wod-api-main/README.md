@@ -2,7 +2,7 @@
 
 ## Description 🏝️
 
-**REST API** for a CrossFit Training Application. This API was designed in this article of [freeCodeCamp](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/). This API provides CRUDs for workouts, records and members.
+**REST API** for a CrossFit Training Application. 
 
 ### Technologies 🤖
 
