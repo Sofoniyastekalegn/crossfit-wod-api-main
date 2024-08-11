@@ -23,11 +23,9 @@
 
 **JSamuel**
 
-- [LinkeIn](https://www.linkedin.com/in/jsamuelap/)
-- [Twitter](https://twitter.com/JSamuelAP)
-- [GitHub](https://github.com/JSamuelAP)
-- [Portfolio 💼](https://jsamuelap.github.io/)
-- [Email 📧](mailto:sp4619168@gmail.com)
+- [LinkeIn](https://www.linkedin.com/in/sofoniyas78/)
+
+- [Email 📧](mailto:sofoniyastekalegn@gmail.com)
 
 ## Watch online 👀
 
